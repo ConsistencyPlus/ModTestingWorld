@@ -1,4 +1,2 @@
 # ModTestingWorld
-Contains the worlds for testings. One without addons, One for addons.
-
-Addon-specific world will come layer when they actually begin being added.
+Contains various versions of our testing world.  Most current one is usually marked by either date or update name
